@@ -1,0 +1,11 @@
+> terraform plan # to plan and view the resources to be created or modified
+
+> terraform  apply # to apply the changes or creation of resources
+
+> terraform destroy # to destroy all the resources created from terraform
+
+> terraform taint 'resource.resource_id' # to mark the resource for updates
+
+> terraform untaint 'resource.resource_id' # to unmark the marked resources
+
+
